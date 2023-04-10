@@ -87,3 +87,11 @@ footer p {
     text-align: center;
     color: brown;
 }
+
+.experience-item-one p {
+    text-align: justify;
+}
+
+.experience-item-two p {
+    text-align: justify;
+}
