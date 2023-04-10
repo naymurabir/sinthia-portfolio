@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .orange-color {
     color: orange;
 }
@@ -23,7 +27,7 @@ h1 {
 }
 
 .half-width img {
-    width: 70%;
+    width: 80%;
     margin-left: 15%;
 
 }
@@ -48,4 +52,38 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experience-item-one {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5px;
+    padding-left: 20px;
+    border-radius: 5px;
+    border-left: 5px solid tomato;
+
+}
+
+.experience-item-two {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5px;
+    padding-left: 20px;
+    padding-bottom: 5%;
+    border-radius: 5px;
+    border-left: 5px solid blue;
+
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+footer p {
+    text-align: center;
+    color: brown;
 }
